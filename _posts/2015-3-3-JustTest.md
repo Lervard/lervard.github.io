@@ -1,10 +1,19 @@
 ---
 layout: post
-title: You're up and running!
+title: 2014回家前
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+明天要回家了，又是一年，又大了一岁，今年家里发生了很多事情，外公，老公，姑奶都去世了。虽然和他们不是那么亲，但是毕竟是亲人。特别是外公的去世还是挺意外的。外公对我来说可能是5岁的记忆吧，外公一辈子兢兢业业，恪守本分，为人和善，没想到命运这么会开玩笑。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+##学驾照
+学驾照的过程算是比较顺利，但是发现了自己的几个缺点。
+动作要领 手脚配合不好
+总是为自己的失败找借口，来安慰自己，貌似是人的天性
+手脚比较笨
+总是自以为是，以为记住，但是没记住。
+和比较恶的人，不太会交流，交流的前提没有摆在比较正的位置，自己的位置太low。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+毕设
+都是最后时间，瞎拼凑的，真是太low了
+
+长大了一岁，可是心智还是太low了，真是不应该不应该ekyll-now) on GitHub.
